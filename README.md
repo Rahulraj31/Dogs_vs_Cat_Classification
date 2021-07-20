@@ -1,4 +1,4 @@
-# Dogs vs Cat Classification Using Transfer Learing 
+# Dogs vs Cat Classification 
 The following file uses concept of transfer learning to achive 98% accuracy on test data for classification.
 
 
